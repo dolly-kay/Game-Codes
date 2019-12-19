@@ -1,0 +1,4 @@
+C:\Users\Kayslee\source\repos\Engine\bin\Release\Engine.dll
+C:\Users\Kayslee\source\repos\Engine\bin\Release\Engine.pdb
+C:\Users\Kayslee\source\repos\Engine\obj\Release\Engine.dll
+C:\Users\Kayslee\source\repos\Engine\obj\Release\Engine.pdb
